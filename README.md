@@ -1,33 +1,23 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Gaara! 👋 (billocuto)
 
-### 👨‍💻 Desenvolvedor [Sua Área: ex Fullstack / Front-end / Mobile]
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente estou trabalhando em [Projeto Atual]
-- 🌱 Estou aprendendo [Tecnologia que está estudando]
-- 💬 Pergunte-me sobre [Assuntos que domina]
-- 📫 Como me encontrar: [Seu e-mail ou LinkedIn]
-
----
-
-### 🛠 Ferramentas e Tecnologias
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USER]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USER]&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=8B0000&height=200&section=header&text=Gaara%20Profile&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </div>
 
+### 👨‍💻 Sobre Mim
+- 🐍 Atualmente sou um **estudante iniciante em Python**.
+- 🚀 Focado em aprender a lógica de programação através de **mini projetos**.
+- 🛠️ Meu projeto principal no momento é o **Macro Engine**: um programa para automatizar tarefas repetitivas.
+
 ---
 
-### 🔗 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-LINKEDIN])
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([LINK-DO-SEU-INSTAGRAM])
+### 🛠 Tecnologias que estou explorando
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 Estatísticas do GitHub (billocuto)
+<div align="center">
+  <img height="180em" src="

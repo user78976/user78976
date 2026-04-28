@@ -1,23 +1,48 @@
-# Olá, eu sou o Gaara! 👋 (billocuto)
+# ⚡ Macro Engine – Official Edition by Gaara
 
+### 🚀 High-Performance Automation Framework
+**Macro Engine** is a premier, professional-grade automation framework engineered for high-precision combat fluidity. Developed exclusively by **Gaara**, it serves as a technical bridge to enhance execution mechanics with professional-grade precision.
+
+---
+
+### 🛠️ Technical Core & Stacks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Automation](https://img.shields.io/badge/Automation-Technical-blue?style=for-the-badge&logo=probot&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Optimized-orange?style=for-the-badge&logo=speedtest&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Non--Invasive-green?style=for-the-badge&logo=shield&logoColor=white)
+
+---
+
+### 🏗️ Technical Architecture & Safety
+The core philosophy of Macro Engine is **Security through Non-Invasiveness**. Unlike traditional exploits, this software utilizes a unique, safe architecture:
+
+* **System-Level Emulation:** Operates at the OS level, modifying keyboard input signals rather than game code.
+* **Anti-Ban Technology:** Leaves no digital footprint. Since it does not modify DLLs or inject scripts into the Roblox client, it remains undetectable by standard anti-cheat systems.
+* **Zero-Injection Policy:** Functions as a virtual hardware layer, ensuring account safety while boosting performance.
+
+---
+
+### 🏮 Optimized for Jujutsu Shenanigans
+While many macros are generic, this engine is specifically calibrated for the unique timing and frame data of **Jujutsu Shenanigans**. 
+
+> **Key Advantage:** Every sequence is optimized to match the game's specific mechanics, ensuring combat actions are as responsive and efficient as possible.
+
+---
+
+### 📊 System Performance & Stats
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8B0000&height=200&section=header&text=Gaara%20Profile&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USER]&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 👨‍💻 Sobre Mim
-- 🐍 Atualmente sou um **estudante iniciante em Python**.
-- 🚀 Focado em aprender a lógica de programação através de **mini projetos**.
-- 🛠️ Meu projeto principal no momento é o **Macro Engine**: um programa para automatizar tarefas repetitivas.
-
 ---
 
-### 🛠 Tecnologias que estou explorando
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔗 Connect & Support
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR-LINK])
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]([YOUR-LINK])
+[![GitHub Custom](https://img.shields.io/badge/Portfolio-Gaara_Edition-black?style=for-the-badge&logo=github)]([YOUR-LINK])
 
 ---
-
-### 📈 Estatísticas do GitHub (billocuto)
-<div align="center">
-  <img height="180em" src="
+<p align="center">
+  <i>Developed with precision. Powered by Python. Created by Gaara.</i>
+</p>
